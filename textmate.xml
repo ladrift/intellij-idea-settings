@@ -1,0 +1,20 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="bundles">
+      <list>
+        <BundleConfigBean>
+          <option name="name" value="Themes" />
+          <option name="path" value="$USER_HOME$/repo/github.com/textmate/themes.tmbundle" />
+        </BundleConfigBean>
+      </list>
+    </option>
+    <option name="themesMapping">
+      <map>
+        <entry key="Ladies Night 2" value="Mac Classic" />
+        <entry key="Sunburst" value="Sunburst" />
+        <entry key="_@user_Darcula" value="Mac Classic" />
+        <entry key="_@user_Default" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>
